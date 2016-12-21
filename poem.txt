@@ -1,6 +1,7 @@
 rainbow colors;
 red
 orange
+green
 blue
 navy
 pupple
