@@ -1,0 +1,6 @@
+rainbow colors;
+red
+orange
+blue
+navy
+pupple
